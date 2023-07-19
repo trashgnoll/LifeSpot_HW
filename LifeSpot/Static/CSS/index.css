@@ -1,0 +1,13 @@
+﻿/* Компоненты iframe со встроенным видео */
+.video-container{
+    display: inline-block;
+    margin-top: 0.5em;
+    padding-left: 1%;
+    padding-top: 1%;
+}
+
+/* Стиль хедера для главной страницы имеет приоритет, 
+так как используется селектор по идентификатору */
+#header-index{
+    color: #44453f;
+}
